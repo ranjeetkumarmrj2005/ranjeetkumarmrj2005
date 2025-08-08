@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently pursuing B-Tech **at NIT Delhi**
 
-- 🌱 I’m currently learning **Data structure and algorithm**
+- 🌱 I’m currently learning **Data structure and algorithm and web development**
 
-- 📫 How to reach me **ranjeetkumarmrj2005@gmail.com**
+- 📫 How to reach me **241220044@nitdelhi.ac.in**
 
 - ⚡ Fun fact **✌️**
 
