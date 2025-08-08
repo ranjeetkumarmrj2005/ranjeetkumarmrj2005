@@ -1,5 +1,4 @@
-![logo](![IMG-20250518-WA0090 (1)](<img width="1540" height="822" alt="image" src="https://github.com/user-attachments/assets/a1d3376e-4ebd-4759-bea2-16d472df9d8b" />
-)
+
 )
 <h1 align="center">Hi 👋, I'm Ranjeet Verma</h1>
 <h3 align="center">A passionate problem solver</h3>
