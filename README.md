@@ -1,5 +1,3 @@
-
-)
 <h1 align="center">Hi 👋, I'm Ranjeet Verma</h1>
 <h3 align="center">A passionate problem solver</h3>
 
